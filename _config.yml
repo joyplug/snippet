@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /snippet/feed.xml
 
-url: "https://127.0.0.1"
+url: "https://joyplug.github.io"
 baseurl: "/snippet"
 paginate: 20
 per_page: 20
