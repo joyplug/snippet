@@ -38,13 +38,13 @@ urls:
     - text: XML Feed
       url: /snippet/feed.xml
 
-url: "https://joyplug.github.io"
+url: "https://127.0.0.1"
 baseurl: "/snippet"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
