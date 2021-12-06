@@ -1,0 +1,56 @@
+title: Snippet
+description: Tiny Snippet
+author: fugidove
+github: https://github.com
+about: fugidove dominates the universe!
+#disqus_shortname: stackproblems
+#google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/fugidove1"
+    - icon: fa-linkedin
+      link: "#"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "#"
+
+share:
+  twitter_username: fugidove1
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /snippet/about/
+    - text: My Projects
+      url: /snippet/projects/
+    - text: XML Feed
+      url: /snippet/feed.xml
+
+url: "https://joyplug.github.io"
+baseurl: "/snippet"
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
