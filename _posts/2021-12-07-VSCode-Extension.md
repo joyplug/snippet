@@ -35,3 +35,6 @@ Live Server: Open with Live Server
 ```
 
 > 10. Markdown Preview
+```
+Markdown: Open Preview
+```
