@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "[mac] 앱 강제 종료 방법"
+date:   2021-11-05 09:00:00 +0900
+categories: [mac]
+---
+
+#### 앱을 강제로 종료하는 방법
+
+> option, command 및 esc 키를 동시에 누릅니다.  
+> 또는 화면 왼쪽 상단 모서리의 Apple() 메뉴에서 ‘강제 종료’를 선택합니다.  
+> (이 동작은 PC에서 Ctrl-Alt-Delete 키를 누르는 것과 유사합니다.)
+<br>
+
+![image](https://user-images.githubusercontent.com/3415567/145176127-2a4ce85b-b4ca-41de-a227-1f33ca2e9035.png)
+
+<br>
+
+> 그런 다음 강제 종료 윈도우에서 앱을 선택하고 ‘강제 종료’를 클릭합니다.  
+
+<br>
+
+![image](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/highsierra/macos-high-sierra-force-quit.jpg)
+
+<br>
