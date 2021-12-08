@@ -56,7 +56,7 @@ motd //서버-닉의 motd를 설정합니다. 영어로만 설정
 
 ### 도메인 설정
 > [https://내도메인.한국](https://내도메인.한국)  
-> ![image](/snippet/static/img/_posts/domain_korea.png)
+> ![image](https://raw.githubusercontent.com/joyplug/snippet/gh-pages/static/img/_posts/domain_korea.png)
 
 <br>
 
